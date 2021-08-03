@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="center" src="https://activity-graph.herokuapp.com/graph?username=devansh016&theme=react-dark&hide_border=true"/>
-<img align='center' src="https://github-readme-stats.vercel.app/api?username=devansh016&show_icons=true&theme=tokyonight">
-<img align='center' src="https://visitor-badge.glitch.me/badge?page_id=devansh016.visitor-badge">
+<img align="center" src="https://activity-graph.herokuapp.com/graph?username=suyalamritanshu&theme=react-dark&hide_border=true"/>
+<img align='center' src="https://github-readme-stats.vercel.app/api?username=suyalamritanshu&show_icons=true&theme=tokyonight">
+<img align='center' src="https://visitor-badge.glitch.me/badge?page_id=suyalamritanshu.visitor-badge">
