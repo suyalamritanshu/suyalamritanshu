@@ -45,7 +45,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/suyalamritanshu/github-readme-activity-graph"><img alt="Amritanshu's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=suyalamritanshu&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github-readme-activitygraph.cyclic.app/graphusername=suyalamritanshu&bg_color=ffffff&color=9e4c98&line=302c30&point=403d3d&area=true&hide_border=true" /></a>
 
 <br/>
 <br/>
