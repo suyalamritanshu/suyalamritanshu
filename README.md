@@ -2,6 +2,8 @@
 <h1 align="center">Hello Everyone <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,</h1>
 <h3 align="center">I'm an Android and MERN Stack Developer.</h3>
 
+<img src="https://raw.githubusercontent.com/kha7iq/kha7iq/main/assets/banner.png" alt="Introduction Banner.." style="text-align: center; margin-bottom: 30px;" />
+
 
 
 ## 🚀 Languages and Tools:
