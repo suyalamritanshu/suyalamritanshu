@@ -51,18 +51,18 @@ I enjoy solving problems at the **UI architecture and system interaction level**
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suyalamritanshu&theme=black-ice&hide_border=true" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=suyalamritanshu&show_icons=true&include_all_commits=true&count_private=true&hide_border=true"
+    height="160"
+  />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=suyalamritanshu&hide_border=true"
+    height="160"
+  />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suyalamritanshu&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suyalamritanshu&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
-</p>
-
-> **Note:** Top languages reflect public repositories only.
 
 ---
 
