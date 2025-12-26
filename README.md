@@ -1,68 +1,87 @@
-
-<h1 align="center">Hello Everyone <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,</h1>
-<h3 align="center">I'm an React Native and MERN Stack Developer.</h3>
-
-
-
-## 🚀 Languages and Tools:
-
-<p align="left"> 
-    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
-    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
-    <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
-    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-    <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="48" height="48"/> </a> 
-    <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
-    <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-</p>
-
-<br/>
+<h1 align="center">Hi, I’m Amritanshu 👋</h1>
+<h3 align="center">Frontend Engineer | Angular • React • TypeScript</h3>
 
 <p align="center">
-    <a href="https://github.com/suyalamritanshu/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Amritanshu streak" src="https://github-readme-streak-stats.herokuapp.com/?user=suyalamritanshu&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
+Building scalable, performance-driven web interfaces used by millions.
 </p>
 
-## 📊 My Github Stats
+---
 
-  <br/>
-    <a href="https://github.com/suyalamritanshu/github-readme-stats"><img alt="Amritanshu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=suyalamritanshu&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/suyalamritanshu/github-readme-stats"><img alt="Amritanshu's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suyalamritanshu&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+## 👨‍💻 About Me
 
+I’m a **Software Engineer with ~2 years of experience** building **large-scale, user-centric web applications**, primarily using **Angular, React, and TypeScript**.
 
-<br/>
-<br/>
+At **Darwinbox**, I worked on enterprise-grade products used by **30L+ users**, where I:
+- Built and optimized complex UI workflows
+- Improved performance using efficient change detection and lazy loading
+- Collaborated closely with backend and product teams to ship high-impact features
 
-<a href="https://github-readme-activitygraph.cyclic.app/graphusername=suyalamritanshu&bg_color=ffffff&color=9e4c98&line=302c30&point=403d3d&area=true&hide_border=true" /></a>
+I enjoy solving problems at the **UI architecture and system interaction level**, and I value clean, maintainable code over shortcuts.
 
-<br/>
-<br/>
+---
 
-## Connect with me:
+## 🛠 Tech Stack (Focused)
+
+**Frontend**
+- Angular, React, Next.js
+- TypeScript, JavaScript (ES6+)
+- HTML5, CSS3, Tailwind CSS, Bootstrap
+- RxJS, State Management
+
+**Backend & APIs**
+- Node.js, Express.js
+- REST APIs
+
+**Databases**
+- MongoDB, MySQL
+
+**Testing & Tooling**
+- Jest, Cypress
+- Git, GitHub
+- Postman
+
+---
+
+## 📌 Professional Highlights
+
+- Optimized Angular architecture with better change detection and lazy loading, improving UI performance by **29%**
+- Built and scaled Angular interfaces for **Darwinbox Super Agent (30L+ users)**, increasing engagement by **31%**
+- Reduced UI duplication by **40%** using shared Web Components (Stencil)
+- Contributed to **40% adoption growth** and **$100K first-month revenue** through frontend improvements
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suyalamritanshu&theme=black-ice&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=suyalamritanshu&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suyalamritanshu&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+</p>
+
+> **Note:** Top languages reflect public repositories only.
+
+---
+
+## 🤝 Let’s Connect
+
 <p align="left">
-
-<a href = "https://www.linkedin.com/in/amritanshu-suyal-04/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/SuyalAmritanshu"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/amritanshusuyal04/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-
-
+<a href="https://www.linkedin.com/in/amritanshu-suyal-04/" target="_blank">
+  <img src="https://img.icons8.com/fluent/40/000000/linkedin.png"/>
+</a>
+<a href="https://twitter.com/SuyalAmritanshu" target="_blank">
+  <img src="https://img.icons8.com/fluent/40/000000/twitter.png"/>
+</a>
+<a href="https://www.instagram.com/amritanshusuyal04/" target="_blank">
+  <img src="https://img.icons8.com/fluent/40/000000/instagram-new.png"/>
+</a>
 </p>
 
-## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=suyalamritanshu">
-</a>
-<a href="https://github.com/suyalamritanshu?tab=followers"><img src="https://img.shields.io/github/followers/suyalamritanshu?label=Followers&style=social" alt="GitHub Badge"></a>
+---
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=suyalamritanshu&label=Profile%20Views&color=blue&style=flat" />
+</p>
