@@ -53,11 +53,9 @@ I enjoy solving problems at the **UI architecture and system interaction level**
 
 ## 📊 GitHub Activity
 
-<p align="center">
-  <img src="https://img.shields.io/github/commit-activity/m/suyalamritanshu?style=flat-square" />
-  <img src="https://img.shields.io/github/last-commit/suyalamritanshu?style=flat-square" />
-  <img src="https://img.shields.io/github/followers/suyalamritanshu?style=flat-square" />
-</p>
+- Active contributor with consistent commits across frontend and full-stack projects
+- Focused on production-grade UI architecture, performance, and maintainability
+- Open-source and personal projects aligned with Angular, React, and TypeScript
 
 ---
 
