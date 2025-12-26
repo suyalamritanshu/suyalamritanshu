@@ -54,14 +54,9 @@ I enjoy solving problems at the **UI architecture and system interaction level**
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=suyalamritanshu&show_icons=true&include_all_commits=true&count_private=true&hide_border=true"
-    height="160"
-  />
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=suyalamritanshu&hide_border=true"
-    height="160"
-  />
+  <img src="https://img.shields.io/github/commit-activity/m/suyalamritanshu?style=flat-square" />
+  <img src="https://img.shields.io/github/last-commit/suyalamritanshu?style=flat-square" />
+  <img src="https://img.shields.io/github/followers/suyalamritanshu?style=flat-square" />
 </p>
 
 ---
