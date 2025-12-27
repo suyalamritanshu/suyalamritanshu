@@ -58,5 +58,5 @@ I enjoy solving problems at the **UI architecture and system interaction level**
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=suyalamritanshu&label=Profile%20Views&style=flat" />
+  [![](https://visitcount.itsvg.in/api?id=suyalamritanshu&icon=0&color=0)](https://visitcount.itsvg.in)
 </p>
