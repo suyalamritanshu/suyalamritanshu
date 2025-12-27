@@ -1,80 +1,62 @@
-<h1 align="center">Hi, I’m Amritanshu 👋</h1>
-<h3 align="center">Frontend Engineer | Angular • React • TypeScript</h3>
-
-<p align="center">
-Building scalable, performance-driven web interfaces used by millions.
-</p>
+# Hi, I’m Amritanshu 👋  
+### Frontend Engineer | Angular • React • TypeScript
 
 ---
 
-## 👨‍💻 About Me
+## 💫 About Me
 
-I’m a **Software Engineer with ~2 years of experience** building **large-scale, user-centric web applications**, primarily using **Angular, React, and TypeScript**.
+I’m a **Software Engineer with ~2 years of experience** building **scalable, performance-driven frontend applications**, primarily using **Angular, React, and TypeScript**.
 
-At **Darwinbox**, I worked on enterprise-grade products used by **30L+ users**, where I:
-- Built and optimized complex UI workflows
-- Improved performance using efficient change detection and lazy loading
-- Collaborated closely with backend and product teams to ship high-impact features
+I’ve worked on **enterprise-grade products used by millions of users**, where I focused on:
+- Clean, reusable component architecture  
+- Performance optimization (change detection, lazy loading)  
+- Building maintainable UI workflows in collaboration with backend and product teams  
 
-I enjoy solving problems at the **UI architecture and system interaction level**, and I value clean, maintainable code over shortcuts.
+I enjoy solving problems at the **UI architecture and system interaction level**, and I care deeply about writing clean, production-ready code.
 
 ---
 
-## 🛠 Tech Stack (Focused)
+## 🛠 Core Tech Stack
 
 **Frontend**
-- Angular, React, Next.js
-- TypeScript, JavaScript (ES6+)
-- HTML5, CSS3, Tailwind CSS, Bootstrap
-- RxJS, State Management
+- Angular, React, Next.js  
+- TypeScript, JavaScript (ES6+)  
+- HTML5, CSS3, Tailwind CSS  
+
+**State & Architecture**
+- RxJS, Redux  
+- Component-driven architecture  
 
 **Backend & APIs**
-- Node.js, Express.js
-- REST APIs
+- Node.js, Express.js  
+- REST APIs  
 
 **Databases**
-- MongoDB, MySQL
+- MongoDB, MySQL  
 
 **Testing & Tooling**
-- Jest, Cypress
-- Git, GitHub
-- Postman
+- Jest, Cypress  
+- Git, GitHub  
+- Postman  
 
 ---
 
-## 📌 Professional Highlights
+## 🤝 Collaboration & Interests
 
-- Optimized Angular architecture with better change detection and lazy loading, improving UI performance by **29%**
-- Built and scaled Angular interfaces for **Darwinbox Super Agent (30L+ users)**, increasing engagement by **31%**
-- Reduced UI duplication by **40%** using shared Web Components (Stencil)
-- Contributed to **40% adoption growth** and **$100K first-month revenue** through frontend improvements
-
----
-
-## 📊 GitHub Activity
-
-- Active contributor with consistent commits across frontend and full-stack projects
-- Focused on production-grade UI architecture, performance, and maintainability
-- Open-source and personal projects aligned with Angular, React, and TypeScript
+- Open to collaborating on **frontend-heavy projects**
+- Interested in **UI performance, frontend system design, and scalable architectures**
+- Actively improving **advanced Angular internals and modern React patterns**
 
 ---
 
-## 🤝 Let’s Connect
+## 🌐 Connect With Me
 
-<p align="left">
-<a href="https://www.linkedin.com/in/amritanshu-suyal-04/" target="_blank">
-  <img src="https://img.icons8.com/fluent/40/000000/linkedin.png"/>
-</a>
-<a href="https://twitter.com/SuyalAmritanshu" target="_blank">
-  <img src="https://img.icons8.com/fluent/40/000000/twitter.png"/>
-</a>
-<a href="https://www.instagram.com/amritanshusuyal04/" target="_blank">
-  <img src="https://img.icons8.com/fluent/40/000000/instagram-new.png"/>
-</a>
-</p>
+- **LinkedIn:** https://linkedin.com/in/amritanshu-suyal-04  
+- **Email:** amritanshu.suyall2@gmail.com  
+- **Instagram:** https://instagram.com/amritanshusuyal04  
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=suyalamritanshu&label=Profile%20Views&color=blue&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=suyalamritanshu&label=Profile%20Views&style=flat" />
 </p>
